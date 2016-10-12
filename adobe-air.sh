@@ -1,6 +1,6 @@
 #!/bin/bash
-#Script written by Umair <noobslab.com@gmail.com> Mon, 08 Sep 2014 02:24:08 +0200
-#Site: http://www.NoobsLab.com
+#Written by Port Linux <portlinux@gmail.com> 
+#Site: http://www.portlinux.com
 if [ $EUID -ne 0 ]; then
    echo "AdobeAir kurulum scripti root olarak çalıştırılmalıdır.(Hint: sudo kullanın)" 1>&2
    exit 1
